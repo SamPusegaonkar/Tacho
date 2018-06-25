@@ -17,16 +17,16 @@ A infrared light based tachometer.
   4. I suck at explaning, so watch the video provided in the repo.
 
 **Multi-Colored RGB LED as output**
-   if 0-10   rpm: then white 
-   if 10-20  rpm: then pink 
-   if 20-30  rpm: then red
-   if 30-40  rpm: then orange
-   if 40-50  rpm: then yellow
-   if 50-60  rpm: then blue
-   if 60-70  rpm: then indigo 
-   if 70-80  rpm: then voilet
-   if 80-90  rpm: then brown
-   if 90-100 rpm: then light blue
+  * if 0-10   rpm: then white 
+  * if 10-20  rpm: then pink 
+  * if 20-30  rpm: then red
+  * if 30-40  rpm: then orange
+  * if 40-50  rpm: then yellow
+  * if 50-60  rpm: then blue
+  * if 60-70  rpm: then indigo 
+  * if 70-80  rpm: then voilet
+  * if 80-90  rpm: then brown
+  * if 90-100 rpm: then light blue
    
 tweet @sampusegaonkar
   
