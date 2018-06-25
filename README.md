@@ -24,7 +24,7 @@ A infrared light based tachometer.
   * if 40-50  rpm: then yellow
   * if 50-60  rpm: then blue
   * if 60-70  rpm: then indigo 
-  * if 70-80  rpm: then voilet
+  * if 70-80  rpm: then green
   * if 80-90  rpm: then brown
   * if 90-100 rpm: then light blue
    
