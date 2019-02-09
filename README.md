@@ -20,7 +20,8 @@
     4. I suck at explaning, so watch the video provided in the repo.
     
 
-  **Multi-Colored RGB LED as output**
+  **Multi-Colored RGB LED as output**:
+  
     * if 0-10   rpm: then white 
     * if 10-20  rpm: then pink 
     * if 20-30  rpm: then red
