@@ -3,6 +3,8 @@
 **The above code is written in Arduino C Language.**
 
 **Description**: A tachometer is a device used to measure the rpm of a motor or any other rotating machine. The lack of a tachometer on my bike was the inspiration for this project.   <br/>
+
+![Alt Text](Tacho.gif)
   
   **Apparatus**:     
   
